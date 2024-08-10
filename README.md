@@ -1,18 +1,11 @@
-- 👋 Hi, I’m @YESHDEVELOPER
+- 👋 Hi, I’m @Snehitha Kona
 - 👀 I’m interested in Internships and participating in the projects
-- 🌱 I’m currently learning Full Stack web development integrating with AIML
 - 💞️ I’m looking to collaborate on projects to do.
-- 📫 How to reach me ambaldageyeshwanth@gmail.com
-### Hi Developers 👋
+- 📫 How to reach me snehithakonaOO7@gmail.com
+### Hi Friends 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-YESH-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YESH--01629954/)](https://www.linkedin.com/in/YESH--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-YESH-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-YESH-yellow)](https://stackoverflow.com/users/3687251/YESH-)
-
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+I'm a Software Developer with a passion for blending design and programming. I've had the privilege of working on high-profile projects, where I collaborated with expert teams. My skill set includes the entire SDLC, with strong skills in Data Structures, Database Management (MySQL), and Operating Systems. I'm proficient in Java and Python for backend development, and I have experience with front-end technologies like HTML and CSS.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/YESHdeveloper/count.svg)
@@ -20,7 +13,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YESHDEVELOPER&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SNEHITHAKONA&column=7"/>
   </a>
 </div>
 
@@ -163,6 +156,6 @@ Languages and Tools:
 </details>
 <br/>
 <!---
-YESHDEVELOPER/YESHDEVELOPER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SNEHITHAKONA/SNEHITHAKONA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
